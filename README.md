@@ -1,5 +1,11 @@
 # Day_of_Week
 -"""Day of Week (DOW) Calculation (Years 1753 to 9999) - (credits at bottom, www.fuzzywidget.com)
+- NOTE:  I am learning python and I selected this project to practice.  While there are existing python libraries and 
+- functions that will provide the day of the week for future days in just three or so lines of code, can YOU do the 
+- day-of-the-week by only using math and programming?  
+- I can make this into a python function as well.   And furthermore, not bragging, but I have committed
+- the whole process to memory so that I can be given a date in the range of years 1753 to 9999 and I can tell you the
+- date using nothing but thinking.  10 random dates today in 4 minutes, with 2 errors in my math.  I'll get better.
 - """ REFERENCE
 CRC Standard Mathematical Tables and Formulae, 30th Edition , CRC Press, 1996
 Page 738, 10.2.2 "Day of Week Given any Day"
