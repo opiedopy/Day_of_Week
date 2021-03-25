@@ -1,5 +1,6 @@
 # Day_of_Week  (written in Python 3 using Thonny)
--"""Day of Week (DOW) Calculation (Years 1753 to 9999) - (credits at bottom, www.fuzzywidget.com)
+#-"""Day of Week (DOW) Calculation (Years 1753 to 9999) - 
+(credits at bottom, www.fuzzywidget.com)
 - NOTE:  I am learning python and I selected this project to practice.  While there are existing python libraries and 
 - functions that will provide the day of the week for future days in just three or so lines of code, can YOU do the 
 - day-of-the-week in python by only using math and programming?  
