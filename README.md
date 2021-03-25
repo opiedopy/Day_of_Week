@@ -35,7 +35,7 @@ Send any comments to email address on www.fuzzywidget.com home page.
 Leap Year:
 To use table 1, and if your month is January or February, you must memorize
 the rules for all LEAP YEARS!!
-Except for case below, if a year is divisible by 4 it is a leap year:
+Except for 0case below, if a year is divisible by 4 it is a leap year:
 Examples: 1952, 2016, 2020, 2024, 2096, 2548 are all leap years since they
 are divisible by 4.
 - A year divisible by 100, but not 400, is not a leap year, so
